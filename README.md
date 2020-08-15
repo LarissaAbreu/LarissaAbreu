@@ -1,4 +1,4 @@
-![Foto minha palestrando no Front In Floripa 2018](./images/capa-readme.jpg)
+![Foto minha palestrando no Front In Floripa 2018](https://raw.githubusercontent.com/LarissaAbreu/LarissaAbreu/master/images/capa-readme.jpg)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheSweet_Lari)
 [![Twitch](https://img.shields.io/badge/-Twitch-522D94?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/thesweet_lari)
