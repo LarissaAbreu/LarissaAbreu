@@ -5,11 +5,15 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-FD1D5B?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thesweet_lari/)
 [![Website](https://img.shields.io/badge/-Website-41A6B6?style=for-the-badge)](https://larissaabreu.dev/)
 
-# Hello! I'm Larissa Abreu, Front-end developer from Brazil 👩‍💻
+# Hello! I'm Larissa Abreu, Front-end developer, from Brazil - Web Components and a11y enthusiast 🤓👩‍💻
 
 <img src = "https://github-readme-stats.vercel.app/api?username=LarissaAbreu&count_private=true&show_icons=true&theme=dracula">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaAbreu&hide=php&layout=compact&theme=dracula">
 
-## ✨ Fun facts ✨
-- 🎤 I love to sing and to dance 💃
-- 🧙‍♀️ I'm a PotterHead
+## More about me ✨
+- I love to sing and to dance 🎙️💃
+- PotterHead 🧙‍♀️
+- Streamer | Twitch Affiliate 📽️
+- Gamer 🎮
+- Mother 👩‍👦
+- Speaker 🎤
